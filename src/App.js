@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I was changed <code>src/App.js</code> and save to reload.
+          DevOps CICD using Docker Github and Travis CI
         </p>
         <a
           className="App-link"
