@@ -10,6 +10,12 @@ function App() {
         <p>
           "Happy Wedding Anniversary"
         </p>
+        <p>
+          
+        </p>
+        <p>
+          "I am going to learn full stack development"
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
