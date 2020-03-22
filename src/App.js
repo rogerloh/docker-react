@@ -10,9 +10,7 @@ function App() {
         <p>
           "Happy Wedding Anniversary"
         </p>
-        <p>
-          
-        </p>
+        <p></p>
         <p>
           "I am going to learn full stack development"
         </p>
