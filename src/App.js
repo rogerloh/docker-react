@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          DevOps CICD using Docker Github and Travis CI
+          "DevOps CICD using Docker Github and Travis CI"
         </p>
         <a
           className="App-link"
